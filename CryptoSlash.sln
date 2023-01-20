@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoSlash", "CryptoSlash\CryptoSlash.csproj", "{B4A3CCC5-1211-4CED-98D4-664B7267BF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoConsoleTesting", "CryptoConsoleTesting\CryptoConsoleTesting.csproj", "{D47E7D2B-6AB5-45E5-8851-9A810A4F9EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A3CCC5-1211-4CED-98D4-664B7267BF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A3CCC5-1211-4CED-98D4-664B7267BF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A3CCC5-1211-4CED-98D4-664B7267BF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A3CCC5-1211-4CED-98D4-664B7267BF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47E7D2B-6AB5-45E5-8851-9A810A4F9EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47E7D2B-6AB5-45E5-8851-9A810A4F9EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47E7D2B-6AB5-45E5-8851-9A810A4F9EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47E7D2B-6AB5-45E5-8851-9A810A4F9EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9942986A-FD1F-4548-B734-1E78FA7BD2F6}
+	EndGlobalSection
+EndGlobal
